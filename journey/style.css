@@ -1,0 +1,47 @@
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.bigphphph{
+    margin: auto;
+    width: 80%;
+    background-image: url(images/orig.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.bigphphph img{
+    width: 100%;
+}
+.bigphph{
+    display: flex;
+    width: 100%;
+}
+.bigph{
+
+    width: 60%;
+}
+.mainbodygeev{
+    display: flex;
+}
+.miniph img{
+    width: 200px;
+
+}
+
+.bigphphtext{
+    width: 5%;
+}
+.mainbody{
+    width: 90%;
+}
+.MAIN{
+    width: 1000px;
+    height: auto;
+    display: flex;
+    align-items: center;
+    background-image: url(images/wavybeach.jpeg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
