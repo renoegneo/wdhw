@@ -1,0 +1,28 @@
+.main{
+    height: 1000px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.forma input,
+.forma label{
+    display: block;
+}
+
+.submit{
+    margin-top: 15px;
+}
+.forma{
+    font-size: 20px;
+}
+.formadiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 320px;
+    background-color: rgba(0, 0, 0, 0.12);
+    padding: 20px;
+    border-radius: 25px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 0px 15px;
+}

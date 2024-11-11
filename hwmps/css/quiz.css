@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  .question {
+    margin: 20px 0;
+  }
+  .result {
+    font-weight: bold;
+    margin-top: 20px;
+  }

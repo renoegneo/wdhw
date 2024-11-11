@@ -1,0 +1,30 @@
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+
+
+.child{
+    width: 200px;
+    height: 100px;
+    margin: 20px;
+}
+
+
+@media (min-width: 993px) {
+    .child{
+        background-color: lightgreen;
+    }
+}
+@media (max-width: 992px) {
+    .child{
+        background-color: red;
+    }
+}
+@media (max-width: 768px) {
+    .child{
+        background-color: aqua;
+    }
+}
